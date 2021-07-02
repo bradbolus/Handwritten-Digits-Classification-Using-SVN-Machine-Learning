@@ -1,2 +1,2 @@
-# Handwritten-Digits-Classification-Using-SVN-Machine-Learning
-Handwritten Digits Classification Using SVN Machine Learning
+# Handwritten-Digits-Classification-Using-SVM-Machine-Learning
+Handwritten Digits Classification Using SVM Machine Learning
